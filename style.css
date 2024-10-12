@@ -1,0 +1,12 @@
+body {background-color: beige; font-family: Verdana, Geneva, Tahoma, Arial, sans-serif}
+a:link, a:visited {
+    color: white;
+    background-color: #ff0036;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 5px;
+    display: inline-block;
+}
+a:active, a:hover {
+    background-color: crimson;
+}
